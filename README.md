@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Young-Scientist
-- 👀 I’m interested in Machine Learning and Artificial Intelligence in General
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning specifically Natural Langiage Processing
 - 💞️ I’m looking to collaborate on Machine Learning Projects and projects that generally have social impact.
 - 📫 How to reach me:- personal.ephraim@gmail.com.
