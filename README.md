@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">Hey there, I'm Ephraim, an **Artificial Intelligence Engineer** interested in *Natural Language Processing*, *Computer Vision*, and *Reinforcement Learning*. I am passionate about building services, and products, with impact on a large scale. I also love writing technical articles focused on clarifying software engineering, machine and deep learning concepts.  </div>  
+## <div align="center">Hey there, I'm Ephraim, an Artificial Intelligence Engineer interested in Natural Language Processing, Computer Vision, and Reinforcement Learning. I am passionate about building services, and products, with impact on a large scale. I also love writing technical articles focused on clarifying software engineering, machine and deep learning concepts.  </div>  
   
 
 - 🔭 I’m currently a contract Technical Writer at [Draft.Dev](https://draft.dev) and [Data Products LLC](https://dataproducts.io)    
