@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm an **Artificial Intelligence Engineer** interested in *Natural Language Processing*, *Computer Vision*, and *Reinforcement Learning*. I am passionate about building services, and products, with impact on a large scale. I also love writing technical articles focused on clarifying software engineering, machine and deep learning concepts.  </div>  
+<div align="center">Hey there, I'm Ephraim, an **Artificial Intelligence Engineer** interested in *Natural Language Processing*, *Computer Vision*, and *Reinforcement Learning*. I am passionate about building services, and products, with impact on a large scale. I also love writing technical articles focused on clarifying software engineering, machine and deep learning concepts.  </div>  
   
 
 - 🔭 I’m currently a contract Technical Writer at [Draft.Dev](https://draft.dev) and [Data Products LLC](https://dataproducts.io)    
@@ -29,8 +29,8 @@
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,6 +43,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -52,7 +54,7 @@
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -82,22 +84,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EphraimX&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=o2zkmgcx79jow8b9tuix0p15l&cover_image=true&theme=default&bar_color=4e62b1&bar_color_cover=true" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
