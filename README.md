@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ephraim</h1>
 <h3 align="center">A Software Developer and Machine Learning Engineer with a passion for Natural Language Processing, Computer Vision, and Reinforcement Learning. I am passionate about creating services and products that have a large impact. I also enjoy writing technical articles that clarify software engineering, machine learning, and deep learning concepts.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ephraimx&label=Profile%20views&color=0e75b6&style=flat" alt="ephraimx" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ee_ephraim" target="blank"><img src="https://img.shields.io/twitter/follow/ee_ephraim?logo=twitter&style=for-the-badge" alt="ee_ephraim" /></a> </p>
 
 - 🔭 I’m currently working on [emi-the-emotion-predictor](https://emi-the-emotion-predictor-production.up.railway.app)
